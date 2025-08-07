@@ -1,2 +1,2 @@
 # DevOps-Cloud-Project
-Project develop to learn and practice DevOp skills. 
+Project developed to learn and practice DevOp skills. 
